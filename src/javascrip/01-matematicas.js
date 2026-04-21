@@ -47,6 +47,6 @@ console.log("Si tenemos f y t nos da: ", f && t);
 console.log("------------------------------------------");
 
 // Distinto
-console.log( t != t );
-console.log( t != f );
-console.log( f != f );
+console.log( "Es t distinto de t: ", t != t );
+console.log( "Es t distinto de f: ", t != f );
+console.log( "Es f distinto de f: ", f != f );
